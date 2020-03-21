@@ -1,5 +1,5 @@
 {
-    "name": "web-plato-dashboard--pre-configuration",
+    "name": "web-plato-starter--pre-configuration",
 	"resources": {
         "colors.scss": {
             "url": "tokens/colors.scss"

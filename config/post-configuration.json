@@ -1,5 +1,5 @@
 {
-    "name": "web-plato-dashboard--post-configuration",
+    "name": "web-plato-starter--post-configuration",
 	"resources": {
         "elements": {
             "button-base.scss": {
